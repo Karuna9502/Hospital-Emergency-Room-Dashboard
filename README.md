@@ -103,11 +103,6 @@ Slicers
 Charts & Visual Formatting
 
 📷 Dashboard Preview
-(Add dashboard screenshot image here when uploading to GitHub)
+(https://github.com/Karuna9502/Hospital-Emergency-Room-Dashboard/blob/main/Hospital%20Dashboard.png)
 
-📁 Repository Includes:
-Excel File (.xlsx)
 
-Screenshot of Final Dashboard
-
-ReadMe Documentation
